@@ -19,3 +19,4 @@
 # 
 # In order to run the program add the input file name after the execute file name
 # Each operation description will be rewritten to the output file with the result of the operation.
+# If you also add "manyFiles", each operation will be rewritten to a different file.
