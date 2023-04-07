@@ -2,7 +2,7 @@
 # Supported operations: +, *, ^, /, number system conversion.
 # To describe an operation in an input file put an operation symbol (+, *, ^ or /) followed by a space and a number system.
 # After that write two numbers in two separate lines in the appropriate number system.
-# Each two lines should be separated by an empty line.
+# They should be separated by an empty line.
 # Example:
 # + 16
 # 
@@ -10,7 +10,7 @@
 # 
 # 234BB6B7C3
 #
-# In order to perform a number system conversion one needs to put two number systems and a number written in the first of the two systems. It will be
+# In order to perform a number system conversion put two number systems and a number written in the first one of the two systems. It will be
 # converted two the second number system.
 # Example:
 # 10 2
